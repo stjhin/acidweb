@@ -1,16 +1,17 @@
 a.logo {
     cursor: pointer;
     background-image: url('/assets/logo/logo-AI-6.png');
-    background-size: 3rem;
+    background-size: 3.25rem;
     background-repeat: no-repeat;
-    padding: 0 1.5rem;
+    padding: 0 1.75rem;
     margin-left: 0;
 }
 
 a.logo:hover {
     cursor: pointer;
     background-image: url('/assets/logo/logo-AI-1.png') !important;
-    background-size: 3rem;
+    background-size: 3.25rem;
+    padding: 0 1.75rem;
     background-repeat: no-repeat;
 }
 
@@ -152,6 +153,10 @@ a.title-white:hover {
   margin-top: 2rem;
 }
 
+.m-r-10 {
+  margin-right: 10rem;
+}
+
 .p-r-2 {
   padding-right: 2rem;
 }
@@ -278,11 +283,11 @@ a.foot-link:hover {
 }
 
 .work-title {
-  padding: 10rem 20rem 5rem 10rem;
+  padding: 5rem;
 }
 
 .work-text {
-  padding: 0 20rem 5rem 10rem;
+  padding: 0;
 }
 
 /*
@@ -506,12 +511,12 @@ article img {
   font-size: 2rem;
   color: #fff;
 }
-}
 
 .work-title {
   padding: 5rem;
 }
 
 .work-text {
-  padding: 0;
+  padding: 0 !important;
+}
 }
