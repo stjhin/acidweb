@@ -15,6 +15,22 @@ a.logo:hover {
     background-repeat: no-repeat;
 }
 
+a.logo-greatgulf {
+  cursor: pointer;
+  background-image: url('/assets/images/bloorone-logo.jpg');
+  background-size: 300px;
+  padding: 0 15rem;
+  background-repeat: no-repeat;
+}
+
+a.logo-greatgulf:hover {
+  cursor: pointer;
+  background-image: url('/assets/logo/logo-greatgulf.png');
+  background-size: 300px;
+  padding: 0 15rem;
+  background-repeat: no-repeat;
+}
+
 .m-top-bottom-3 {
     margin: 3rem 0;
 }
@@ -302,7 +318,7 @@ a.foot-link:hover {
 Font Awesome Icons
 */
 .fa-html5, .fa-sitemap, .fa-css3, .fa-node-js, .fa-vuejs, .fa-android, .fa-aws,
-.fa-apple, .fa-docker, .fa-gamepad, .fa-js, .fa-react, .fa-laravel, .fa-python, .fa-palette
+.fa-apple, .fa-docker, .fa-gamepad, .fa-js, .fa-react, .fa-laravel, .fa-python, .fa-palette, .fa-code
 {
   font-size: 5rem;
   color: #fff;
@@ -367,9 +383,9 @@ article img {
 }
 
 .slider-dot-control {
-  position: absolute;
+  position: relative;
+  display: inline-block;
   width: 100%;
-  bottom: 0;
   text-align: center;
 }
 .slider-dot-control label {
