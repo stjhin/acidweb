@@ -161,6 +161,14 @@ a.title-white:hover {
   padding: 5rem;
 }
 
+.m-2 {
+  margin: 2rem;
+}
+
+.mt-2{
+  margin-top: 2rem;
+}
+
 .m-3 {
   margin-top: 5rem;
 }
@@ -171,6 +179,14 @@ a.title-white:hover {
 
 .m-t-2 {
   margin-top: 2rem;
+}
+
+.m-b-2 {
+  margin-bottom: 2rem;
+}
+
+.p-l-2 {
+  padding-left: 2rem;
 }
 
 .m-r-10 {
@@ -322,7 +338,11 @@ Font Awesome Icons
 {
   font-size: 5rem;
   color: #fff;
-  margin: 2rem;
+}
+
+.fa-chart-pie {
+  font-size: 100px;
+  color: #fff;
 }
 
 .fa-code {
