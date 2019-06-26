@@ -1,3 +1,10 @@
+# Syntax [June 26th 2019]
+There is 2 main CSS style files: style.css is based on Bulma, a CSS framework, the other is global.css which has custom styles that Bulma doesn't have.
+## Margin-Padding
+This is in global.css for specific margin and padding customization. For example .pb-5 is for padding-bottom: 5rem;
+## Brand Style
+.brand-green: #3DA940 or .is-green: #3DA940 are the brand color syntax.
+#1769C8 are the standard hover color, unless it's specified.
 # Global Navigation Structure [May7th 2019]
 There is 4 main global navigation, separated by 4 distict themes of the site.
 # 1. Our Work
