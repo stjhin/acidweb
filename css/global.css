@@ -17,22 +17,82 @@ a.logo:hover {
 
 a.logo-greatgulf {
   cursor: pointer;
-  background-image: url('/assets/images/bloorone-logo.jpg');
+  background-image: url('/assets/logo/gg-logo.png');
   background-size: 300px;
+  width: 100%;
+  height: 15rem;
   padding: 0 15rem;
   background-repeat: no-repeat;
 }
 
 a.logo-greatgulf:hover {
   cursor: pointer;
-  background-image: url('/assets/logo/logo-greatgulf.png');
+  background-image: url('/assets/logo/logo-gg.png');
   background-size: 300px;
+  width: 100%;
+  height: 15rem;
   padding: 0 15rem;
   background-repeat: no-repeat;
 }
 
-.m-top-bottom-3 {
-    margin: 3rem 0;
+a.logo-okc {
+  cursor: pointer;
+  background-image: url('/assets/logo/okc-logo.png');
+  background-size: 300px;
+  width: 100%;
+  
+  padding: 0 15rem;
+  background-repeat: no-repeat;
+}
+
+a.logo-okc:hover {
+  cursor: pointer;
+  background-image: url('/assets/logo/logo-okc.png');
+  background-size: 300px;
+  width: 100%;
+  height: 15rem;
+  padding: 0 15rem;
+  background-repeat: no-repeat;
+}
+
+a.logo-phh {
+  cursor: pointer;
+  background-image: url('/assets/logo/phh-logo.png');
+  background-size: 300px;
+  width: 100%;
+  height: 15rem;
+  padding: 0 15rem;
+  background-repeat: no-repeat;
+}
+
+a.logo-phh:hover {
+  cursor: pointer;
+  background-image: url('/assets/logo/logo-phh.png');
+  background-size: 300px;
+  width: 100%;
+  height: 15rem;
+  padding: 0 15rem;
+  background-repeat: no-repeat;
+}
+
+a.logo-laphil {
+  cursor: pointer;
+  background-image: url('/assets/logo/laphil-logo.png');
+  background-size: 300px;
+  width: 100%;
+  height: 15rem;
+  padding: 0 15rem;
+  background-repeat: no-repeat;
+}
+
+a.logo-laphil:hover {
+  cursor: pointer;
+  background-image: url('/assets/logo/logo-laphil.png');
+  background-size: 300px;
+  width: 100%;
+  height: 15rem;
+  padding: 0 15rem;
+  background-repeat: no-repeat;
 }
 
 .container.is-half-color {
