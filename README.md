@@ -5,7 +5,7 @@ This is in global.css for specific margin and padding customization. For example
 ## Brand Style
 .brand-green: #3DA940 or .is-green: #3DA940 are the brand color syntax.
 #1769C8 are the standard hover color, unless it's specified.
-# Global Navigation Structure [May7th 2019]
+# Global Navigation Structure [May 7th 2019]
 There is 4 main global navigation, separated by 4 distict themes of the site.
 # 1. Our Work
 While ACID is an organization that does End-to-End products, our range of work can be separated into 3 main themes.
