@@ -169,35 +169,39 @@ a.title-white:hover {
   margin-top: 2rem;
 }
 
-.m-3 {
+.mt-3 {
   margin-top: 5rem;
 }
 
-.m-5 {
+.mt-5 {
   margin-top: 20rem;
 }
 
-.m-t-2 {
-  margin-top: 2rem;
-}
-
-.m-b-2 {
+.mb-2 {
   margin-bottom: 2rem;
 }
 
-.p-l-2 {
+.mt-1 {
+  margin-top: 1rem;
+}
+
+.pt-5 {
+  padding-top: 5rem;
+}
+
+.pl-2 {
   padding-left: 2rem;
 }
 
-.m-r-10 {
+.mr-10 {
   margin-right: 10rem;
 }
 
-.p-r-5 {
+.pr-5 {
   padding-right: 5rem;
 }
 
-.p-bot-5 {
+.pb-5 {
   padding-bottom: 5rem;
 }
 
