@@ -95,6 +95,26 @@ a.logo-laphil:hover {
   background-repeat: no-repeat;
 }
 
+a.logo-rosswell {
+  cursor: pointer;
+  background-image: url('/assets/logo/rosswell-logo.jpg');
+  background-size: 300px;
+  width: 100%;
+  height: 15rem;
+  padding: 0 15rem;
+  background-repeat: no-repeat;
+}
+
+a.logo-rosswell:hover {
+  cursor: pointer;
+  background-image: url('/assets/logo/logo-rosswell.jpg');
+  background-size: 300px;
+  width: 100%;
+  height: 15rem;
+  padding: 0 15rem;
+  background-repeat: no-repeat;
+}
+
 .container.is-half-color {
     background: linear-gradient(to bottom, #3DA940, #fff);
 }
@@ -443,7 +463,6 @@ article img {
 
 /*---- SET UP CONTROL ----*/
 .slider-prev-next-control {
-  height: 50px;
   display: flex;
   justify-content: space-between;
   flex-direction: row-reverse; 
@@ -471,7 +490,6 @@ article img {
   display: flex;
   justify-content: center;
   width: 100%;
-  text-align: center;
 }
 .slider-dot-control label {
   cursor: pointer;
