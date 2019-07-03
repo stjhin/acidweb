@@ -277,6 +277,14 @@ a.title-white:hover {
   margin-right: 10rem;
 }
 
+.pr-2 {
+  padding-right: 2rem;
+}
+
+.pr-3 {
+  padding-right: 3rem;
+}
+
 .pr-5 {
   padding-right: 5rem;
 }
@@ -290,7 +298,7 @@ a.title-white:hover {
 }
 
 .bg-related {
-  background-color: #009ace;
+  background-color: #fff;
   padding: 5rem 0;
 }
 
