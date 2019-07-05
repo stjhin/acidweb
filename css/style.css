@@ -3306,7 +3306,7 @@
   .radio {
     cursor: pointer;
     display: inline-block;
-    line-height: 1.25;
+    line-height: 2;
     position: relative;
   }
   
@@ -3330,7 +3330,7 @@
   }
   
   .radio + .radio {
-    margin-left: 0.5em;
+    margin-left: 0.5rem;
   }
   
   .select {
