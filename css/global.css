@@ -21,7 +21,7 @@ a.logo-greatgulf {
   background-size: 300px;
   width: 100%;
   height: 15rem;
-  padding: 0 15rem;
+  padding: 10rem 10rem 1rem 10rem;
   background-repeat: no-repeat;
 }
 
@@ -31,7 +31,7 @@ a.logo-greatgulf:hover {
   background-size: 300px;
   width: 100%;
   height: 15rem;
-  padding: 0 15rem;
+  padding: 10rem 10rem 1rem 10rem;
   background-repeat: no-repeat;
 }
 
@@ -40,8 +40,8 @@ a.logo-okc {
   background-image: url('/assets/logo/okc-logo.png');
   background-size: 300px;
   width: 100%;
-  
-  padding: 0 15rem;
+  height: 15rem;
+  padding: 10rem 10rem 1rem 10rem;
   background-repeat: no-repeat;
 }
 
@@ -51,7 +51,7 @@ a.logo-okc:hover {
   background-size: 300px;
   width: 100%;
   height: 15rem;
-  padding: 0 15rem;
+  padding: 10rem 10rem 1rem 10rem;
   background-repeat: no-repeat;
 }
 
@@ -61,7 +61,7 @@ a.logo-phh {
   background-size: 300px;
   width: 100%;
   height: 15rem;
-  padding: 0 15rem;
+  padding: 10rem 10rem 1rem 10rem;
   background-repeat: no-repeat;
 }
 
@@ -71,7 +71,7 @@ a.logo-phh:hover {
   background-size: 300px;
   width: 100%;
   height: 11.5rem;
-  padding: 0 15rem;
+  padding: 10rem 10rem 1rem 10rem;
   background-repeat: no-repeat;
 }
 
@@ -81,7 +81,7 @@ a.logo-laphil {
   background-size: 300px;
   width: 100%;
   height: 15rem;
-  padding: 0 15rem;
+  padding: 10rem 10rem 1rem 10rem;
   background-repeat: no-repeat;
 }
 
@@ -91,7 +91,7 @@ a.logo-laphil:hover {
   background-size: 300px;
   width: 100%;
   height: 15rem;
-  padding: 0 15rem;
+  padding: 10rem 10rem 1rem 10rem;
   background-repeat: no-repeat;
 }
 
@@ -101,7 +101,7 @@ a.logo-rosswell {
   background-size: 300px;
   width: 100%;
   height: 15rem;
-  padding: 0 15rem;
+  padding: 10rem 10rem 1rem 10rem;
   background-repeat: no-repeat;
 }
 
@@ -111,7 +111,7 @@ a.logo-rosswell:hover {
   background-size: 300px;
   width: 100%;
   height: 15rem;
-  padding: 0 15rem;
+  padding: 10rem 10rem 1rem 10rem;
   background-repeat: no-repeat;
 }
 
@@ -134,6 +134,10 @@ a.logo-rosswell:hover {
 .button.brand-green {
     color: #3DA940;
     font-weight: 600;
+}
+
+.subtitle.is-green {
+  color: #3da940 !important;
 }
 
 a.button.brand-green:hover {
@@ -245,6 +249,10 @@ a.title-white:hover {
   margin: 2rem;
 }
 
+.mt-1 {
+  margin-top: 1rem;
+}
+
 .mt-2{
   margin-top: 2rem;
 }
@@ -255,6 +263,10 @@ a.title-white:hover {
 
 .mt-5 {
   margin-top: 20rem;
+}
+
+.mt-10 {
+  margin-top: 10rem;
 }
 
 .mb-2 {
