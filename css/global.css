@@ -498,8 +498,8 @@ Carousel
 }
 
 .flickity-prev-next-button {
-  width: 3rem;
-  height: 3rem;
+  width: 3rem !important;
+  height: 3rem !important;
   border-radius: 5px;
 }
 
@@ -561,6 +561,11 @@ Carousel
 .mt-5 {
   margin-top: 1rem;
 }
+
+.main-carousel {
+  padding: 0;
+}
+
 }
 /*---- MOBILE----*/
 @media only screen and (max-width: 780px) {
