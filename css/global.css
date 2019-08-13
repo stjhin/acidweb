@@ -486,7 +486,6 @@ Carousel
 .main-carousel {
   width: 100%;
   height: 100%;
-  padding: 5rem;
 }
 
 .carousel-cell {
@@ -548,12 +547,10 @@ Carousel
 
 .flickity-prev-next-button.previous {
   display: flex !important;
-  border: 1px solid #147917;
 }
 
 .flickity-prev-next-button.next {
   display: flex !important;
-  border: 1px solid #147917;
 }
 
 .flickity-prev-next-button .arrow {
@@ -562,7 +559,8 @@ Carousel
 
 @media screen and ( min-width: 768px ) {
   .carousel-cell img {
-    height: 50vw;
+    width: 80vw;
+    padding: 5rem;
   }
 }
 
