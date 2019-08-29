@@ -285,6 +285,10 @@ a.title-white:hover {
   padding-left: 2rem;
 }
 
+.pl-5 {
+  padding-left: 5rem;
+}
+
 .mr-10 {
   margin-right: 10rem;
 }
@@ -299,6 +303,10 @@ a.title-white:hover {
 
 .pr-5 {
   padding-right: 5rem;
+}
+
+.pb-4 {
+  padding-bottom: 4rem;
 }
 
 .pb-5 {
