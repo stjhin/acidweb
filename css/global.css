@@ -375,14 +375,14 @@ a.title-white:hover {
 }
 
 .bg-image-phh {
-  background-image: url(/assets/images/phh-2.png);
+  background-image: url(/assets/images/phh-3.png);
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
   width: 100vw;
   height: 100vh;
   display: relative;
-  margin: -6.75rem -10rem -10rem -10rem !important;
+  margin: -6.75rem -10rem -15rem -10rem !important;
   overflow: hidden !important;
 }
 
